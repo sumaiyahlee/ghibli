@@ -1,2 +1,2 @@
 # ghibli
-CSSIx project using Studio Ghibli API
+An information portal for Studio Ghibli films.
